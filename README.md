@@ -18,9 +18,9 @@ A simple and secure **Random Password Generator** application. This tool allows 
 
 ## Download
 
-You can download the latest version of the **Random Password Generator** here:
+You can get the latest version here:
 
-[Download Random Password Generator v1.0](https://github.com/Filip-Peev/Random-Password-Generator/releases/download/v1.0/RandomPasswordGenerator.exe)
+Download [Random Password Generator v1.0](https://github.com/Filip-Peev/Random-Password-Generator/releases/download/v1.0/RandomPasswordGenerator.exe)
 
 ## Requirements
 
