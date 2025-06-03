@@ -17,12 +17,6 @@ This tool allows you to generate strong, random passwords with ease and **offlin
 4. Set your preferred password length for each.
 5. Copy the generated password to use for your accounts.
 
-## Download
-
-You can get the latest version here:
-
-Download [Random Password Generator v1.0](https://github.com/Filip-Peev/Random-Password-Generator/releases/download/v1.0/RandomPasswordGenerator.exe)
-
 ## Requirements
 
 - Windows operating system.
