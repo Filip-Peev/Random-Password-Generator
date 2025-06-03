@@ -1,6 +1,7 @@
 # Random Password Generator
 
-A simple and secure **Random Password Generator** application. This tool allows you to generate strong, random passwords with ease and offline, ensuring better security for your accounts.
+A simple and secure **Random Password Generator** application.  
+This tool allows you to generate strong, random passwords with ease and **offline**.
 
 ## Features
 
@@ -26,7 +27,3 @@ Download [Random Password Generator v1.0](https://github.com/Filip-Peev/Random-P
 
 - Windows operating system.
 - No installation required.
-
----
-
-Happy password generation!
